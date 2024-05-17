@@ -1,4 +1,11 @@
 payload:
+  # github mirror
+  - DOMAIN,gitclone.com
+  - DOMAIN,ghproxy.com
+  - DOMAIN,mirror.ghproxy.com
+  - DOMAIN,githubfast.com
+  - DOMAIN,kkgithub.com
+  - DOMAIN,gh-proxy.com
 
   # docker-hub mirro
   - DOMAIN,dockerproxy.com
@@ -10,4 +17,10 @@ payload:
   # huggingface mirror
   - DOMAIN,hf-mirror.com
 
+  # common mirror
+  - DOMAIN,mirrors.cernet.edu.cn
+  - DOMAIN-SUFFIX,sustech.edu.cn
+  - DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
+
+  # MyList
   - DOMAIN-SUFFIX,infinitynewtab.com
