@@ -1,11 +1,1 @@
 payload:
-  - GEOSITE,bytedance@ads
-  - DOMAIN,ads3-normal-lf.zijieapi.com
-  - DOMAIN,ads5-normal-lf.zijieapi.com
-  - DOMAIN,log3-applog-lf.fqnovel.com
-  - DOMAIN,log5-applog-lf.fqnovel.com
-  - DOMAIN,p3-ad-sign.byteimg.com
-  - DOMAIN,p6-ad-sign.byteimg.com
-  - DOMAIN,p9-ad-sign.byteimg.com
-  - DOMAIN,rtlog3-applog-lf.fqnovel.com
-  - DOMAIN,rtlog5-applog-lf.fqnovel.com

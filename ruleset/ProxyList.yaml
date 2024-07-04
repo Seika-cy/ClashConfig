@@ -1,10 +1,4 @@
 payload:
-  # 机场
-  - DOMAIN,wiki.metacubex.one
-  - DOMAIN-SUFFIX,elysia1111.top
-  - DOMAIN-SUFFIX,eehk.net
-  - DOMAIN-KEYWORD,mojie
-
   # DNS
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,8.8.8.8/32,no-resolve

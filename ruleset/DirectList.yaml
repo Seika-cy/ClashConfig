@@ -22,9 +22,9 @@ payload:
   - DOMAIN-SUFFIX,sustech.edu.cn
   - DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
 
+  # steam download cdn finding serv
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamserver.net
+
   # MyList
-  - DOMAIN-SUFFIX,infinitynewtab.com
-  - DOMAIN-SUFFIX,yfp2p.net
-  - DOMAIN-SUFFIX,300hu.coma
-  - DOMAIN-SUFFIX,elemecdn.com
-  - DOMAIN-SUFFIX,qiniup.com
+
