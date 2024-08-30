@@ -8,11 +8,6 @@ payload:
   - DOMAIN,gh-proxy.com
 
   # docker-hub mirro
-  - DOMAIN,dockerproxy.com
-  - DOMAIN,mirror.baidubce.com
-  - DOMAIN,docker.nju.edu.cn
-  - DOMAIN,docker.mirrors.sjtug.sjtu.edu.cn
-  - DOMAIN,mirror.iscas.ac.cn
 
   # huggingface mirror
   - DOMAIN,hf-mirror.com
