@@ -1,19 +1,19 @@
 payload:
   # github mirror
-  - DOMAIN,gitclone.com
-  - DOMAIN,ghproxy.com
-  - DOMAIN,mirror.ghproxy.com
-  - DOMAIN,githubfast.com
-  - DOMAIN,kkgithub.com
-  - DOMAIN,gh-proxy.com
+  - DOMAIN-SUFFIX,gitclone.com
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,githubfast.com
+  - DOMAIN-SUFFIX,kkgithub.com
+  - DOMAIN-SUFFIX,gh-proxy.com
 
   # docker-hub mirro
 
   # huggingface mirror
-  - DOMAIN,hf-mirror.com
+  - DOMAIN-SUFFIX,hf-mirror.com
 
   # common mirror
-  - DOMAIN,mirrors.cernet.edu.cn
+  - DOMAIN-SUFFIX,mirrors.cernet.edu.cn
   - DOMAIN-SUFFIX,sustech.edu.cn
   - DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
 
